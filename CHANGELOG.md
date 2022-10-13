@@ -1,3 +1,15 @@
+# v0.1.14 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- fix: fix css ([@luccasmmg](https://github.com/luccasmmg))
+
+#### Authors: 1
+
+- Luccas Mateus  ([@luccasmmg](https://github.com/luccasmmg))
+
+---
+
 # v0.1.13 (Thu Oct 13 2022)
 
 
