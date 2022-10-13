@@ -1,3 +1,15 @@
+# v0.1.22 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- fix: remove spinner (luccasmmg@gmail.com)
+
+#### Authors: 1
+
+- Luccas Mateus de Medeiros Gomes (luccasmmg@gmail.com)
+
+---
+
 # v0.1.21 (Thu Oct 13 2022)
 
 #### ⚠️ Pushed to `main`
