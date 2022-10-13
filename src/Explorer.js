@@ -3,7 +3,7 @@ import Download from './Download'
 import Filter from './Filter'
 import TableContainer from './TableContainer'
 
-function App({ dataset, schema, apiUri }) {
+function Explorer({ dataset, schema, apiUri }) {
   // Sort by the given list of primary keys
   let initialFilter = {}
   if (schema.primary_key) {
@@ -61,4 +61,4 @@ function App({ dataset, schema, apiUri }) {
   )
 }
 
-export default App
+export default Explorer
