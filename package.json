@@ -55,6 +55,7 @@
       "last 1 safari version"
     ]
   },
+  "type": "module",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@craco/craco": "^6.0.0",
