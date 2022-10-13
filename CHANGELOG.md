@@ -1,3 +1,15 @@
+# v0.1.20 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- fix (luccasmmg@gmail.com)
+
+#### Authors: 1
+
+- Luccas Mateus de Medeiros Gomes (luccasmmg@gmail.com)
+
+---
+
 # v0.1.19 (Thu Oct 13 2022)
 
 #### ⚠️ Pushed to `main`
