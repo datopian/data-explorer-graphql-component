@@ -5,10 +5,10 @@
   "license": "MIT",
   "version": "0.1.17",
   "private": false,
-  "main": "dist/index.js",
   "files": [
     "dist"
   ],
+  "main": "dist/index.js",
   "repository": "https://github.com:datopian/data-explorer-graphql-component.git",
   "dependencies": {
     "@apollo/client": "^3.2.9",
@@ -19,8 +19,8 @@
     "react-copy-to-clipboard": "^5.0.3",
     "react-date-picker": "^8.1.0",
     "react-dom": "^16.13.0",
-    "react-table": "^7.8.0",
     "react-scripts": "4.0.1",
+    "react-table": "^7.8.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -34,7 +34,8 @@
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
     "deploy-storybook": "storybook-to-ghpages",
-    "release": "auto shipit --base-branch=main"
+    "release": "auto shipit --base-branch=main",
+    "rollup": "rollup -c"
   },
   "eslintConfig": {
     "extends": [
@@ -54,20 +55,14 @@
       "last 1 safari version"
     ]
   },
-  "babel": {
-    "presets": [
-      [
-        "react-app",
-        {
-          "absoluteRuntime": false
-        }
-      ]
-    ]
-  },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@craco/craco": "^6.0.0",
     "@cypress/code-coverage": "^3.9.6",
+    "@rollup/plugin-babel": "^6.0.0",
+    "@rollup/plugin-commonjs": "^23.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "@rollup/plugin-typescript": "^9.0.1",
     "@storybook/addon-actions": "^6.5.4",
     "@storybook/addon-essentials": "^6.5.4",
     "@storybook/addon-links": "^6.5.4",
@@ -93,6 +88,8 @@
     "postcss-cli": "7",
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0",
+    "rollup": "^3.1.0",
+    "rollup-plugin-dts": "^4.2.3",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }
 }
