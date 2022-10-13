@@ -1,3 +1,15 @@
+# v0.1.16 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- feat: upgrade react-table (luccasmmg@gmail.com)
+
+#### Authors: 1
+
+- Luccas Mateus de Medeiros Gomes (luccasmmg@gmail.com)
+
+---
+
 # v0.1.15 (Thu Oct 13 2022)
 
 
