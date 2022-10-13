@@ -1,3 +1,15 @@
+# v0.1.25 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- feat: upgrade react ([@luccasmmg](https://github.com/luccasmmg))
+
+#### Authors: 1
+
+- Luccas Mateus  ([@luccasmmg](https://github.com/luccasmmg))
+
+---
+
 # v0.1.24 (Thu Oct 13 2022)
 
 
