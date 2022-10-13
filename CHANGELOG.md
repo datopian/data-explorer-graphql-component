@@ -2,6 +2,18 @@
 
 #### ⚠️ Pushed to `main`
 
+- v0.1.6 ([@luccasmmg](https://github.com/luccasmmg))
+
+#### Authors: 1
+
+- Luccas Mateus  ([@luccasmmg](https://github.com/luccasmmg))
+
+---
+
+# v0.1.6 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
 - v0.1.6 (luccasmmg@gmail.com)
 
 #### Authors: 1
