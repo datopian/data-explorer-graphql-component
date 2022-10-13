@@ -1,5 +1,17 @@
 # v0.1.19 (Thu Oct 13 2022)
 
+#### ⚠️ Pushed to `main`
+
+- fix ([@luccasmmg](https://github.com/luccasmmg))
+
+#### Authors: 1
+
+- Luccas Mateus  ([@luccasmmg](https://github.com/luccasmmg))
+
+---
+
+# v0.1.19 (Thu Oct 13 2022)
+
 
 
 ---
