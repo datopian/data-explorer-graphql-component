@@ -1,3 +1,15 @@
+# v0.1.18 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- fix: change babel config (luccasmmg@gmail.com)
+
+#### Authors: 1
+
+- Luccas Mateus de Medeiros Gomes (luccasmmg@gmail.com)
+
+---
+
 # v0.1.17 (Thu Oct 13 2022)
 
 
