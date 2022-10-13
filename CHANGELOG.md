@@ -1,3 +1,15 @@
+# v0.1.21 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- fix: change babel prests (luccasmmg@gmail.com)
+
+#### Authors: 1
+
+- Luccas Mateus de Medeiros Gomes (luccasmmg@gmail.com)
+
+---
+
 # v0.1.20 (Thu Oct 13 2022)
 
 #### ⚠️ Pushed to `main`
