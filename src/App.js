@@ -2,15 +2,16 @@ import React, { useState } from 'react'
 import Download from './Download'
 import Filter from './Filter'
 import TableContainer from './TableContainer'
-import './tailwind/output.css'
 
 function App({ dataset, schema, apiUri }) {
   // Sort by the given list of primary keys
   let initialFilter = {}
   if (schema.primary_key) {
-    initialFilter = { order_by: schema.primary_key.map(pk => {
-      return { [pk] : 'desc' }
-    })}
+    initialFilter = {
+      order_by: schema.primary_key.map((pk) => {
+        return { [pk]: 'desc' }
+      }),
+    }
   } else {
     // No primary keys exist so order by datetime field if exist
     const datetime = schema.fields.filter((val) => {
