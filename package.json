@@ -3,9 +3,12 @@
   "description": "Data Explorer app build for Data API based on GraphQL engine.",
   "author": "Datopian",
   "license": "MIT",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "repository": "https://github.com:datopian/data-explorer-graphql-component.git",
   "dependencies": {
     "@apollo/client": "^3.2.9",
