@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "main": "dist/index.js",
+  "main": "dist/Explorer.js",
   "repository": "https://github.com:datopian/data-explorer-graphql-component.git",
   "dependencies": {
     "@apollo/client": "^3.2.9",
