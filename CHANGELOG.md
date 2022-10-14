@@ -1,3 +1,15 @@
+# v0.1.26 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- feat: removed styles ([@luccasmmg](https://github.com/luccasmmg))
+
+#### Authors: 1
+
+- Luccas Mateus  ([@luccasmmg](https://github.com/luccasmmg))
+
+---
+
 # v0.1.25 (Thu Oct 13 2022)
 
 #### ⚠️ Pushed to `main`
